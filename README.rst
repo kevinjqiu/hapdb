@@ -50,4 +50,4 @@ MIT
 Authors
 -------
 
-`hapdb` was written by `Kevin J. Qiu <kevin@idempotent.ca>`_.
+`hapdb` was written by `Kevin J. Qiu <kevin@idempotent.ca>`_, with haproxy parser copied from https://github.com/gforcada/haproxy_log_analysis.
